@@ -15,3 +15,4 @@ Refactor an existing site to make it more accessible.
 - css validation - `https://jigsaw.w3.org/css-validator/` - passed
 
 - added explanatory comments to the sections of the page
+![image](https://github.com/stephdavid/horiseon/assets/22025452/6eca081c-b40c-42f7-9d0a-2e288cecda0c)
