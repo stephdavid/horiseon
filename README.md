@@ -15,4 +15,5 @@ Refactor an existing site to make it more accessible.
 - css validation - `https://jigsaw.w3.org/css-validator/` - passed
 
 - added explanatory comments to the sections of the page
-![horiseon](https://github.com/stephdavid/horiseon/assets/22025452/ed794965-8097-4b58-8f7c-3cfc391cb3c9)
+
+- n.b. the main image is embedded and therefore does not take an alt tag - the accessibility question on whether this or not is important
