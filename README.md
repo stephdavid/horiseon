@@ -17,3 +17,5 @@ Refactor an existing site to make it more accessible.
 - added explanatory comments to the sections of the page
 
 - n.b. the main image is embedded and therefore does not take an alt tag - the accessibility question on whether this or not is important
+  
+- optimized the css by grouping elements (tip from a classmate)
