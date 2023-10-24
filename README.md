@@ -19,3 +19,7 @@ Refactor an existing site to make it more accessible.
 - n.b. the main image is embedded and therefore does not take an alt tag - the accessibility question on whether this or not is important
   
 - optimized the css by grouping elements (tip from a classmate)
+
+<img src="horiseon.png" alt="horiseon webpage">
+
+
