@@ -2,9 +2,9 @@
 
 ## Your Task
 
-Refactor an existing site to make it more accessible. 
+Refactor an existing site to make it more accessible.
 
-= https://stephdavid.github.io/horiseon/
+- https://stephdavid.github.io/horiseon/
 
 - spell check
 
