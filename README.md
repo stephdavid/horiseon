@@ -4,6 +4,8 @@
 
 Refactor an existing site to make it more accessible. 
 
+= `https://stephdavid.github.io/horiseon/`
+
 - spell check
 
 - fix incorrect inner link - in this case, add an id
