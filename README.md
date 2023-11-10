@@ -4,7 +4,7 @@
 
 Refactor an existing site to make it more accessible.
 
-- stephdavid.github.io/horiseon - Web page
+- https://stephdavid.github.io/horiseon - Web page
 
 - https://stephdavid.github.io/horiseon/ - GitHub repo
 
