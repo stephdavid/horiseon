@@ -33,7 +33,9 @@ And the screenshot:
 
 Refactor an existing site to make it more accessible.
 
-- https://stephdavid.github.io/horiseon/
+- https://stephdavid.github.io/horiseon - Web page
+
+- https://stephdavid.github.io/horiseon/ - GitHub repo
 
 - spell check
 
